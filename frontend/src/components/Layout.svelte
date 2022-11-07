@@ -16,7 +16,7 @@
     import '../styles/index.scss';
   </script>
   
-  <Header company="IBM" platformName="Carbon Svelte" bind:isSideNavOpen>
+  <Header  platformName="PriceDesk" bind:isSideNavOpen>
     <svelte:fragment slot="skip-to-content">
       <SkipToContent />
     </svelte:fragment>
